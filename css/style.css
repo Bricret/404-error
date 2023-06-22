@@ -106,7 +106,7 @@ body {
         width: 100%;
         word-spacing: 0.50em;
         font-family: monospace;
-        padding-right: 2rem;
+        padding-right: 1rem;
     }
 
     .seccion h3 {
@@ -117,7 +117,7 @@ body {
         font-weight: 800;
         word-spacing: 0.50em;
         font-family: 'Raleway', sans-serif;
-        padding-right: 2rem;
+        padding-right: 1rem;
     }
 
     .main {
@@ -137,5 +137,11 @@ body {
     .boton{
         padding-right: 2rem;
     }
+    .footer p{
+        text-align: center;
+        padding-bottom: 0.5rem;
+        text-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+        font-size: 0.7rem;
+      }
 
   }
