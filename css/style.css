@@ -101,6 +101,9 @@ body {
 
   @media screen and (max-width: 767px){
 
+    .seccion {
+        padding: 0px;
+    }
     .seccion h1 {
         font-size: 2rem;
         width: 100%;
