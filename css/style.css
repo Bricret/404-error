@@ -102,11 +102,11 @@ body {
   @media screen and (max-width: 767px){
 
     .seccion h1 {
-        font-size: 3rem;
-        width: 22rem;
+        font-size: 2rem;
+        width: 100%;
         word-spacing: 0.50em;
         font-family: monospace;
-        padding: 0.5rem;
+        padding-right: 2rem;
     }
 
     .seccion h3 {
@@ -117,7 +117,7 @@ body {
         font-weight: 800;
         word-spacing: 0.50em;
         font-family: 'Raleway', sans-serif;
-        padding: 0.5rem;
+        padding-right: 2rem;
     }
 
     .main {
@@ -135,7 +135,7 @@ body {
     }
     
     .boton{
-        padding: 0.5rem;
+        padding-right: 2rem;
     }
 
   }
